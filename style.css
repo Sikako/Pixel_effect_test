@@ -10,7 +10,6 @@
   top: 0%;
   left: 50%;
   position: absolute;
-  width: 600px;
+  width: 800px;
   height: 800px;
-  /* transform: translate(-50%, -50%); */
 }
